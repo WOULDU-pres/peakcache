@@ -1,3 +1,5 @@
+(현재 버전 문제가 생겨 프로젝트 수정 중입니다.)  
+
 # PeakCache
 
 PeakCache는 Spring Boot 애플리케이션을 위한 고성능 캐싱 라이브러리입니다. 
